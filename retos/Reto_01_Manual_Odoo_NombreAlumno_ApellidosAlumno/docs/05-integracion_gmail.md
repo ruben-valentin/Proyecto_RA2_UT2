@@ -1,5 +1,7 @@
 # 05 — Integración con Gmail (OAuth GCP + Add-on)
 
+> Estructura orientativa
+
 ## Requisitos
 - Cuenta Google Cloud (GCP).
 

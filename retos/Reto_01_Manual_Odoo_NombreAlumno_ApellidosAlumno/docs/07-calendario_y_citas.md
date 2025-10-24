@@ -1,5 +1,7 @@
 # 07 — Calendario y Citas
 
+> Estructura orientativa
+
 - Calendario (día/semana/mes) + disponibilidad del equipo.
 - **Integración con Google Calendar** (API OAuth GCP).
 - **Odoo Meet** (videollamadas) o enlaces externos.

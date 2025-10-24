@@ -1,5 +1,7 @@
 # 03 — Instalación y prueba (15 días) / Alta e instalación de apps
 
+> Estructura orientativa
+
 ## Requisitos previos
 - Navegador actualizado.
 - Cuenta de correo para alta.

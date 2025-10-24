@@ -1,5 +1,7 @@
 # 08 — Proyectos (Kanban)
 
+> Estructura orientativa
+
 - Proyectos, etapas, tareas, **subtareas**.
 - **Tareas recurrentes**, **dependencias**, **hitos**.
 - Vistas: tarjetas, lista, calendario propio.

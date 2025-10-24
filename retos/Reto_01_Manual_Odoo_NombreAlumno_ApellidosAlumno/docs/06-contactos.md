@@ -1,5 +1,7 @@
 # 06 — Contactos
 
+> Estructura orientativa
+
 - Asociación automática persona/empresa.
 - **Etiquetas** para segmentar.
 - Importación CSV (ver `common/ejemplo_csv/`).
