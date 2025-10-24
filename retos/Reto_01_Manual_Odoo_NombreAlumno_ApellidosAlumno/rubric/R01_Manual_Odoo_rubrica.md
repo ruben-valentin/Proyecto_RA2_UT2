@@ -16,7 +16,3 @@ Puntúa cada criterio con 0, 1 o 2 puntos. Máximo: 24 puntos.
 | Entrega consolidada | Faltan apartados clave; no se puede revisar. | Entrega casi completa; quedan detalles menores (p. ej., algunos `.md` vacíos). | Carpeta entregable completa y lista para revisión. |
 | Entrega en PDF único | No hay PDF único o faltan apartados clave. | PDF sin algún apartado menor o con formato mejorable. | PDF consolidado con todos los apartados requeridos. |
 | Norma de nombrado del archivo | No respeta el formato o contiene caracteres no permitidos. | Pequeñas desviaciones pero identificable. | Cumple exactamente: `apellido1_apellido2_nombre_SIGxx_Tarea` (sin ñ/tildes). |
-
-Notas:
-- Si necesitas pesos distintos en Moodle, ajusta el valor de cada criterio en la rúbrica (cada uno vale 2 puntos por defecto).
-
