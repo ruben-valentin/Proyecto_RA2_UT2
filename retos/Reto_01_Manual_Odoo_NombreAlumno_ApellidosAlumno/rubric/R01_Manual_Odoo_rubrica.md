@@ -15,7 +15,4 @@ Puntúa cada criterio con 0, 1 o 2 puntos. Máximo: 20 puntos.
 | Enlaces relativos y navegación | Enlaces rotos frecuentes; navegación inconsistente. | Pocos enlaces rotos; navegación aceptable. | Enlaces relativos correctos entre `docs`; índice en `01-indice.md` y enlaces cruzados operativos. |
 | Entrega consolidada | Faltan apartados clave; no se puede revisar. | Entrega casi completa; quedan detalles menores (p. ej., algunos `.md` vacíos). | Carpeta entregable completa y lista para revisión; si Moodle exige PDF único, exportación correcta. |
 
-Notas:
-- Ajusta la ponderación en Moodle si necesitas pesos distintos; por defecto cada criterio vale 2 puntos.
-- Si la exportación a PDF no es requerida en tu actividad de Moodle, ignora ese aspecto del último criterio.
 
