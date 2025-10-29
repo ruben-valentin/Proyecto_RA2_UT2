@@ -1,5 +1,7 @@
 # 11 — Tips & Checklist
 
+> Estructura orientativa 
+
 ## Tips
 - Activa **2FA** y define **roles** desde el día 1.
 - Etiquetas y seguidores (followers) para notificaciones.
